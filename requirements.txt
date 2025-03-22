@@ -1,0 +1,15 @@
+# Core libraries
+streamlit
+torch
+torchaudio
+transformers
+librosa
+pydub
+jiwer
+
+# Audio backend dependencies
+soundfile
+numpy
+
+# Optional: suppress warnings and handle audio conversions
+ffmpeg-python
